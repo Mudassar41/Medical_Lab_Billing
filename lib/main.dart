@@ -126,6 +126,8 @@ class _MyHomePageState extends State<MyHomePage> {
             //   },
             // ),
 
+            //git testing 
+
             Text(context.watch<TestProvider>().showSomething),
             ElevatedButton(
                 onPressed: () {
